@@ -1,7 +1,15 @@
 
-exports.homeContent = "No in he real went find mr. Wandered or strictly raillery stanhill as. Jennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now how nay cold real case.";
+exports.homeContent = 
+`Welcome to BlogApp! We're delighted to have you join us on this digital journey of exploration and discovery. Our mission is to provide a platform where knowledge meets creativity, where ideas find their voice, and where diverse perspectives come together to shape conversations.
 
-exports.contactContent = "Pleased him another was settled for. Moreover end horrible endeavor entrance any families. Income appear extent on of thrown in admire. Stanhill on we if vicinity material in. Saw him smallest you provided ecstatic supplied. Garret wanted expect remain as mr. Covered parlors concern we express in visited to do. Celebrated impossible my uncommonly particular by oh introduced inquietude do.";
+Our Story
 
-exports.aboutContent = "Was justice improve age article between. No projection as up preference reasonably delightful celebrated. Preserved and abilities assurance tolerably breakfast use saw. And painted letters forming far village elderly compact. Her rest west each spot his and you knew. Estate gay wooded depart six far her. Of we be have it lose gate bred. Do separate removing or expenses in. Had covered but evident chapter matters anxious.";
+BlogApp was born out of a passion for sharing and learning. Our founders, Inderpreet, envisioned a space where individuals from all walks of life could contribute their unique insights and experiences, fostering a vibrant community of thinkers and storytellers. Since our inception in 2023, we've grown into a hub of inspiration, connecting people with thought-provoking articles, engaging stories, and informative content.`;
+
+exports.aboutContent =
+`Welcome to BlogApp! We're delighted to have you join us on this digital journey of exploration and discovery. Our mission is to provide a platform where knowledge meets creativity, where ideas find their voice, and where diverse perspectives come together to shape conversations.
+
+Our Story
+
+BlogApp was born out of a passion for sharing and learning. Our founders, Inderpreet, envisioned a space where individuals from all walks of life could contribute their unique insights and experiences, fostering a vibrant community of thinkers and storytellers. Since our inception in 2023, we've grown into a hub of inspiration, connecting people with thought-provoking articles, engaging stories, and informative content.`;
 
